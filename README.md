@@ -1,5 +1,3 @@
-Here's the updated README with your contact details and contributor contact:
-
 ---
 
 # User Behavior Analysis in Online Learning Platforms Using Graphs 📊
@@ -62,5 +60,3 @@ Contributions are welcome! Please fork this repository, create new branches, and
 Feel free to reach out for any questions or contributions!
 
 ---
-
-Let me know if you want to add more details or changes!
