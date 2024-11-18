@@ -56,6 +56,7 @@ Contributions are welcome! Please fork this repository, create new branches, and
 
 - [Tushar kanti Dey](https://github.com/Tushar626-byte) – **Project Owner**
 - [Pradip das](https://github.com/Pradipdas647000) – **Contributor**
+- [Shreyali Guha](https://github.com/Shreyali02) - **Contributor**
 
 Feel free to reach out for any questions or contributions!
 
